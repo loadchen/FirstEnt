@@ -1,0 +1,82 @@
+.bodyArticleList {
+    width: 600px;
+}
+
+.moreImageArticleItem {
+    width: 600px;
+    height: 165px;
+    margin: 10px;
+}
+
+.moreImageArticleItem p {
+    height: 10px;
+}
+
+.moreImageArticleItem .articleListImages {
+    height: 120px;
+    display: flex;
+}
+
+.moreImageArticleItem .articleTag {
+    height: 20px;
+}
+
+.moreImageArticleItem .articleListImages img {
+    width: 80%;
+    height: 100%;
+}
+
+.oneImageArticleItem {
+    width: 600px;
+    height: 120px;
+    margin: 10px;
+    display: flex;
+  }
+  
+  .oneImageArticleItem img {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .oneImageArticleItem .articleTitle {
+    margin-left: 20px;
+    height: 40px;
+  }
+  
+  .oneImageArticleItem .articleTag {
+    margin-left: 20px;
+    width: 500px;
+    height: 20px;
+  }
+  
+  .articleTag .fromIcon {
+    width: 16px;
+    height: 16px;
+  }
+  
+  .articleTag .fromWeb {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: rgb(220, 220, 220);
+    margin-left: 10px;
+  }
+  
+  .articleTag .remarkNum {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color:rgb(220, 220, 220);
+  }
+  
+  .articleTag .publishTime {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: rgb(220, 220, 220);
+  }
+  
+  .articleTag .fromAuthor {
+    float: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: rgb(220, 220, 220);
+  }
+  
